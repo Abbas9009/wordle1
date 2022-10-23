@@ -1,0 +1,21 @@
+*{margin:0;border:0;padding:0;}
+div{
+
+}
+article{
+width:60%;
+float:left;
+padding: 0.3em;padding
+}
+.article-h2{background:lightblue;
+}
+
+aside{
+background-color:yellow;
+float:right;
+padding: 0.3em;
+width:37.5%;
+
+}
+header, footer{background-color:darkgreen;color:white;}
+footer{clear:both;}
